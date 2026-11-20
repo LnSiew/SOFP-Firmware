@@ -1,0 +1,18 @@
+
+# Private configuration
+config.h
+
+# Build files
+build/
+*.bin
+*.elf
+*.map
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.pem
+*.key
